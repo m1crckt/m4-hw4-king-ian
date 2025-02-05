@@ -1,0 +1,52 @@
+body {
+    background-color: #332f2f;
+    color: #f9e9e9;
+    max-width: 900px;
+    margin: auto;
+}
+#title {
+    color: #9b4732;
+}
+header {
+    margin: 35px 0;
+    display: block;
+    font-size: 20px;
+}
+a {
+    color: #47a54e;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#brief {
+    text-align: center;
+}
+h1, h2, h3 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: #e74f4f;
+}
+section.bio {
+    color: #fada07;
+    font-family: cursive;
+}
+article > h2 {
+    font-style: oblique;
+}
+h2 {
+    color: #74bdb7;
+}
+.bottom-nav {
+    margin: 50px 0;
+    font-size: 20px;
+    display: block;
+}
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
